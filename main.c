@@ -282,7 +282,7 @@ void main_game()
     strcpy(s, current->value);
     double d1=0 ;
     for( huruf=0 ;  s[huruf] != '\0' ; huruf++);
-    //system("cls");                                //ghesmathaye comment dar in function baraye bakhshe emtiazi hastand
+    //system("cls");                                // comments in this function are for the bonus parts
     printf("%s", s);
     printf("\n");
     //system("cls");
